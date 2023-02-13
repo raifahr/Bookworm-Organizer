@@ -1,0 +1,21 @@
+{
+    "books": [
+        {
+            "title": "Sophie's World",
+            "author": "Jostein Gaarder",
+            "date": "1991",
+            "category": "Philosophy",
+            "read state": "Read",
+            "review": "Metafiction that played with my mind..."
+        },
+        {
+            "title": "Illuminae",
+            "author": "Amie Kaufman, Jay Kristoff",
+            "date": "October 20, 2015",
+            "category": "Sci-Fi",
+            "read state": "Read",
+            "review": "Thrilling Sci-Fi that leaves you wanting more!"
+        }
+    ],
+    "name": "My BookCollection"
+}

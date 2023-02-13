@@ -1,0 +1,29 @@
+{
+    "books": [
+        {
+            "date": "October 20, 2015",
+            "author": "Amie Kaufman, Jay Kristoff",
+            "review": "Thrilling Sci-Fi that leaves you wanting more!",
+            "title": "Illuminae",
+            "category": "Sci-Fi",
+            "read state": "Reading"
+        },
+        {
+            "date": "1991",
+            "author": "Jostein Gaarder",
+            "review": "Metafiction that played with my mind...",
+            "title": "Sophie's World",
+            "category": "Philosophy",
+            "read state": "Read"
+        },
+        {
+            "date": "CPSC 210",
+            "author": "CPSC 210",
+            "review": "CPSC 210",
+            "title": "CPSC 210",
+            "category": "CPSC 210",
+            "read state": "CPSC 210"
+        }
+    ],
+    "name": "Raifah's BookCollection"
+}
